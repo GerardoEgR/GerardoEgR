@@ -12,6 +12,7 @@ tecnologías como Java, Spring Boot y Mysql. También tengo experiencia trabajan
   
 ## 🚀 Proyectos
 
+- https://github.com/GerardoEgR/moviesPediaPage
 - https://github.com/GerardoEgR/crudFrontendAngular
   
 
