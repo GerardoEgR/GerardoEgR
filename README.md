@@ -1,7 +1,10 @@
 # Hola 👋, soy Gerardo Gallardo y bienvenido...
 
-Soy ingeniero informático multimedia con experiencia en el desarrollo Full Stack de aplicaciones web. En el ámbito front-end he utilizando tecnologías como Ract, redux, TypeScript y Angular. En cuanto al back-end, mi experiencia se basa en el uso de
-tecnologías como Java, Spring Boot y Mysql. También tengo experiencia trabajando en entornos ágiles aplicando la metodología Scrum, uso de herramientas como Jira para la gestión de proyectos y Git para el control de versiones. Además, he utilizado BitBucket y Azure DevOps para facilitar el desarrollo colaborativo y la integración continua.
+Soy ingeniero informático multimedia con experiencia en el desarrollo Full Stack de aplicaciones web. En el desarrollo front-end he utilizando tecnologías como React, Redux, TypeScript y Angular. En cuanto al back-end, mi experiencia se basa en el uso de tecnologías como Java, Spring Boot y Mysql.
+
+En el ámbito del desarrollo ágil, tengo experiencia aplicando la metodología Scrum. En cuanto a la gestión de proyectos, estoy familiarizado con el uso de Jira y Git para el control de versiones. Además, he utilizado BitBucket y Azure DevOps para facilitar el desarrollo colaborativo y la integración continua.
+
+Además, poseo flexibilidad y la capacidad de adaptarme a diferentes tareas y entornos laborales, lo que me permite integrarme sin problemas a equipos multidisciplinarios. Me considero una persona comprometida, responsable y empática que puede establecer confianza con los colegas y trabajar colaborativamente hacia objetivos en común.
 
 ## 🛠 Skills
 
