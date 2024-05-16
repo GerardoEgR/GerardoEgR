@@ -8,9 +8,9 @@ Además, poseo flexibilidad y capacidad para adaptarme a diferentes tareas y ent
 
 ## 🛠 Skills
 
-- **Front-end:** React, TypeScript, CSS, HTML, Bootstrap, Material ui, Tailwind CSS.
+- **Front-end:** React, TypeScript, javaScript, CSS, HTML, Bootstrap, Material ui, Tailwind CSS.
 
-- **Back-end:** JAVA, Spring Boot.
+- **Back-end:** JAVA, Spring Boot, MySQL.
 
   
 ## 🚀 Proyectos
