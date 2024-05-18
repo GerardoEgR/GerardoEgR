@@ -15,6 +15,7 @@ Además, poseo flexibilidad y capacidad para adaptarme a diferentes tareas y ent
   
 ## 🚀 Proyectos
 
+- https://github.com/GerardoEgR/Portfolio
 - https://gerardoegr.github.io/region-aysen-page/
 - https://gerardoegr.github.io/pageEffeta/
 - https://github.com/GerardoEgR/moviesPediaPage
