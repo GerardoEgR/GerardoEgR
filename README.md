@@ -4,7 +4,7 @@ Soy ingeniero informático multimedia con experiencia en el desarrollo Full Stac
 
 En el ámbito del desarrollo ágil, tengo experiencia aplicando la metodología Scrum. En cuanto a la gestión de proyectos, estoy familiarizado con el uso de Jira y Git para el control de versiones. Además, he utilizado BitBucket y Azure DevOps para facilitar el desarrollo colaborativo y la integración continua.
 
-Además, poseo flexibilidad y capacidad para adaptarme a diferentes tareas y entornos laborales, lo que me permite integrarme sin problemas a equipos multidisciplinarios. Me considero una persona comprometida, responsable y empática que puede establecer confianza con los miembros del equipo y trabajar colaborativamente hacia objetivos en común.
+Además, poseo flexibilidad y capacidad para adaptarme a diferentes entornos laborales, lo que me permite integrarme sin problemas a equipos multidisciplinarios. Me considero una persona comprometida, responsable y empática que puede establecer confianza con los miembros del equipo y trabajar colaborativamente hacia objetivos en común.
 
 ## 🛠 Skills
 
@@ -15,7 +15,6 @@ Además, poseo flexibilidad y capacidad para adaptarme a diferentes tareas y ent
   
 ## 🚀 Proyectos
 
-- https://github.com/GerardoEgR/Portfolio
 - https://gerardoegr.github.io/region-aysen-page/
 - https://gerardoegr.github.io/pageEffeta/
 - https://github.com/GerardoEgR/moviesPediaPage
