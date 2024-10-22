@@ -15,9 +15,10 @@ Además, poseo flexibilidad y capacidad para adaptarme a diferentes entornos lab
   
 ## 🚀 Proyectos
 
-- https://gerardoegr.github.io/region-aysen-page/
-- https://gerardoegr.github.io/pageEffeta/
 - https://github.com/GerardoEgR/moviesPediaPage
+- https://gerardoegr.github.io/region-aysen-page/
+- https://github.com/GerardoEgR/HealthNetApp
+- https://gerardoegr.github.io/pageEffeta/
 - https://github.com/GerardoEgR/crudFrontendAngular
   
 
