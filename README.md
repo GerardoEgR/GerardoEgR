@@ -23,13 +23,13 @@ Me considero una persona comprometida, responsable y empática, cualidades que m
   
 ## 💼 Proyectos
 
-- **[Proyecto 1: MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**
+- 🎞️ **[Proyecto 1: MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**
   Descripción: Aplicación Web de películas que permite el registro de usuarios. Tecnologías: **React**, **Zustand**, **React-Bootstrap**, **React-Query**, **React-Hook-Form**, **Java**, **Spring Boot**, **Maven**, **Spring Security**, **JPA**, **ORM**, **MySQL**.
   
-- **[Proyecto 2: Región de Aysén](https://gerardoegr.github.io/region-aysen-page/)**
+- 🌲 **[Proyecto 2: Región de Aysén](https://gerardoegr.github.io/region-aysen-page/)**
    Descripción: Sitio web sobre los atractivos turísticos de la Región. Tecnologías: **HTML**, **CSS**, **Astro**, **JavaScript**, **RBootstrap**.
   
-- **[Proyecto 3: HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**
+- 🏥 **[Proyecto 3: HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**
    Descripción: Aplicación Web para el agendamiento de horas médicas. Tecnologías: **Next.JS**, **React**, **Zustand**, **Typescript**, **React-calendar**, **React-Hook-Form**, **Tailwind CSS**, **Prisma**, **PostgreSQL**.
 
 ## 📫 Contacto
