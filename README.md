@@ -21,14 +21,16 @@ Me considero una persona comprometida, responsable y empática, cualidades que m
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
   
-## 🚀 Proyectos
+## 💼 Proyectos
 
-- https://github.com/GerardoEgR/moviesPediaPage
-- https://gerardoegr.github.io/region-aysen-page/
-- https://github.com/GerardoEgR/HealthNetApp
-- https://gerardoegr.github.io/pageEffeta/
-- https://github.com/GerardoEgR/crudFrontendAngular
+- **[Proyecto 1: MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**
+  Descripción: Aplicación Web de películas que permite el registro de usuarios. Tecnologías: **React**, **Zustand**, **React-Bootstrap**, **React-Query**, **React-Hook-Form**, **Java**, **Spring Boot**, **Maven**, **Spring Security**, **JPA**, **ORM**, **MySQL**.
   
+- **[Proyecto 2: Región de Aysén](https://gerardoegr.github.io/region-aysen-page/)**
+   Descripción: Sitio web sobre los atractivos turísticos de la Región. Tecnologías: **HTML**, **CSS**, **Astro**, **JavaScript**, **RBootstrap**.
+  
+- **[Proyecto 3: HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**
+   Descripción: Aplicación Web para el agendamiento de horas médicas. Tecnologías: **Next.JS**, **React**, **Zustand**, **Typescript**, **React-calendar**, **React-Hook-Form**, **Tailwind CSS**, **Prisma**, **PostgreSQL**.
 
-## 🔗 Contacto
+## 📫 Contacto
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-gallardo-rodríguez-396193171)
