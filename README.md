@@ -1,4 +1,4 @@
-# Hola 👋 y bienvenido. Mi nombre es ...
+# 👋 Hola y bienvenido. Mi nombre es...
 
 ![Profile Banner](https://github.com/GerardoEgR/portafolio/blob/main/src/assets/images/banner.png)
 
@@ -9,7 +9,7 @@ En el ámbito del desarrollo ágil, tengo experiencia aplicando la metodología 
 Me considero una persona comprometida, responsable y empática, cualidades que me permiten trabajar colaborativamente hacia objetivos en común, estableciendo relaciones de confianza y gracias a mi capacidad de adaptación, puedo integrarme fácilmente en equipos multidisciplinarios.
 
 
-## 🛠 Skills
+## 🛠 Stack Tecnológico
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
