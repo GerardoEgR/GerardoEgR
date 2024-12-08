@@ -1,6 +1,6 @@
 # 👋 Hola y bienvenido. Mi nombre es...
 
-![Profile Banner](https://github.com/GerardoEgR/portafolio/blob/main/src/assets/images/banner.png)
+![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.png)
 
 Soy ingeniero informático multimedia con experiencia en el desarrollo Full Stack de aplicaciones web. Mi enfoque se centra en la mejora continua y el aprendizaje constante, lo que me ha permitido trabajar con tecnologías como React, Redux, TypeScript y Angular en el front-end, así como Java, Spring Boot, Nest en el back-end y con bases de datos relacionales como lo son MySQL y postgreSQL. Disfruto enfrentándome a retos complejos, transformando conceptos en soluciones funcionales y estéticamente atractivas. Asumiendo cada tarea con pasión y con un enfoque proactivo, orientado a resultados de alta calidad.
 
