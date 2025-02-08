@@ -2,11 +2,13 @@
 
 ![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.png)
 
-Soy ingeniero informático multimedia con experiencia en el desarrollo Full Stack de aplicaciones web. Mi enfoque se centra en la mejora continua y el aprendizaje constante, lo que me ha permitido trabajar con tecnologías como React, Redux, TypeScript y Angular en el front-end, así como Java, Spring Boot, Nest en el back-end y con bases de datos relacionales como lo son MySQL y postgreSQL. Disfruto enfrentándome a retos complejos, transformando conceptos en soluciones funcionales y estéticamente atractivas. Asumiendo cada tarea con pasión y con un enfoque proactivo, orientado a resultados de alta calidad.
+Tras 7 años de experiencia en el sector de telecomunicaciones, conectividad y redes, decidí perseguir lo que realmente me motiva: la programación. Este camino me llevó a obtener el título de ingeniero informático multimedia a mis 37 años, demostrando que nunca es tarde para aprender y reinventarse profesionalmente.
 
-En el ámbito del desarrollo ágil, tengo experiencia aplicando la metodología Scrum y el uso de Jira en la gestión de proyectos. En cuanto al control de versiones, estoy familiarizado en la utilización de Git. Además, he trabajado con BitBucket y Azure DevOps para facilitar la integración continua y el desarrollo colaborativo.
+Actualmente, me especializo en el desarrollo Full Stack de aplicaciones web, combinando mi conocimiento en front-end y back-end para crear soluciones completas. En el ámbito del front-end, he trabajado con tecnologías como React, Redux, TypeScript y Angular, mientras que en el back-end mi experiencia se centra en el uso de tecnologías como Java, Spring Boot y MySQL.
 
-Me considero una persona comprometida, responsable y empática, cualidades que me permiten trabajar colaborativamente hacia objetivos en común, estableciendo relaciones de confianza y gracias a mi capacidad de adaptación, puedo integrarme fácilmente en equipos multidisciplinarios.
+Además, cuento con experiencia en metodologías ágiles, aplicando Scrum y utilizando herramientas como Jira para la gestión de proyectos. Estoy familiarizado con el control de versiones a través de Git y he colaborado en equipos utilizando plataformas como BitBucket y Azure DevOps para facilitar la integración continua y el desarrollo colaborativo.
+
+Me considero una persona comprometida, responsable y empática, cualidades que me permiten trabajar eficazmente en equipo y establecer relaciones de confianza. Mi flexibilidad y capacidad de adaptación me han facilitado integrarme en entornos multidisciplinarios, demostrando que el aprendizaje continuo en la edad adulta es una fortaleza y una inspiración para aquellos que creen que nunca es tarde para empezar de nuevo.
 
 
 ## 🛠 Stack Tecnológico
