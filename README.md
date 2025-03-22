@@ -2,13 +2,15 @@
 
 ![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.png)
 
-Tras 7 años de experiencia en el sector de telecomunicaciones, conectividad y redes, decidí perseguir lo que realmente me motiva: la programación. Este camino me llevó a obtener el título de ingeniero informático multimedia a mis 37 años, demostrando que nunca es tarde para aprender y reinventarse profesionalmente.
+Soy ingeniero informático multimedia con más tres años de experiencia en desarrollado web. He trabajado con tecnologías como React, Redux, TypeScript, Angular, Java, Spring Boot, NestJS y MySQL. Además, tengo experiencia en metodologías ágiles, específicamente aplicando Scrum y en el uso herramientas como Jira, Git, BitBucket y Azure DevOps, para la gestión de proyectos, control de versiones, integración continua y desarrollo colaborativo.
 
-Actualmente, me especializo en el desarrollo Full Stack de aplicaciones web, combinando mi conocimiento en front-end y back-end para crear soluciones completas. En el ámbito del front-end, he trabajado con tecnologías como React, Redux, TypeScript y Angular, mientras que en el back-end mi experiencia se centra en el uso de tecnologías como Java, Spring Boot y MySQL.
+Desde siempre, he creído que el compromiso y la responsabilidad son los cimientos de cualquier camino al éxito. A lo largo de mi vida profesional, he construido relaciones basadas en la confianza y el trabajo en equipo, entendiendo que los mejores logros no se alcanzan en solitario, sino con la colaboración y el apoyo mutuo. La empatía me ha permitido conectar con quienes me rodean, aprender de ellos y aportar lo mejor de mí en cada desafío.
 
-Además, cuento con experiencia en metodologías ágiles, aplicando Scrum y utilizando herramientas como Jira para la gestión de proyectos. Estoy familiarizado con el control de versiones a través de Git y he colaborado en equipos utilizando plataformas como BitBucket y Azure DevOps para facilitar la integración continua y el desarrollo colaborativo.
+Durante siete años, trabajé en el sector de telecomunicaciones, conectividad y redes, donde desarrollé una gran capacidad de adaptación. Me enfrenté a entornos exigentes, equipos multidisciplinarios y tecnologías en constante evolución. Pero, aunque disfrutaba mi trabajo, había una pasión que latía en mí con fuerza: la programación. Sabía que cambiar de rumbo no sería sencillo, pero también sabía que la perseverancia y el aprendizaje continuo son herramientas poderosas.
 
-Me considero una persona comprometida, responsable y empática, cualidades que me permiten trabajar eficazmente en equipo y establecer relaciones de confianza. Mi flexibilidad y capacidad de adaptación me han facilitado integrarme en entornos multidisciplinarios, demostrando que el aprendizaje continuo en la edad adulta es una fortaleza y una inspiración para aquellos que creen que nunca es tarde para empezar de nuevo.
+Con esa convicción, decidí dar un giro a mi carrera. No importaba la edad ni los obstáculos, porque la determinación pesa más que cualquier barrera. Fueron años de esfuerzo, de noches en vela, de equilibrar el aprendizaje con mis responsabilidades y familia. Y al final, logré mi meta: a los 37 años, obtuve mi título de ingeniero informático multimedia.
+
+Este logro no solo representa un cambio profesional, sino una prueba de que la constancia, la flexibilidad y la pasión pueden transformar cualquier sueño en realidad. Hoy, miro hacia atrás con orgullo, sabiendo que cada paso, cada reto y cada sacrificio valieron la pena. Porque nunca es tarde para reinventarse y demostrar que el esfuerzo y la dedicación siempre tienen su recompensa.
 
 
 ## 🛠 Stack Tecnológico
