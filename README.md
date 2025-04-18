@@ -77,8 +77,10 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 
 <div></div><br><br>
 
-## <h2>📫 Contacto</h2>
+## <h2 align="center">📫 Contacto</h2>
+<div style="display: flex;" align="center">
 <a target="_blank" href="https://www.linkedin.com/in/gerardogallardo-dev/">
 <img width="40px" src="https://github.com/user-attachments/assets/e2edac84-a91e-4d7f-91d5-e75524495f9b"></a>
+</div>
    
 
