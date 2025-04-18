@@ -66,13 +66,13 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
   
 ## <h2 align="center">💼 Proyectos</h2><br>
 
-- 💻 **[Proyecto 1: MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**
+- 💻 **[Proyecto MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**<br>
   Descripción: Aplicación Web de películas que permite el registro de usuarios. Tecnologías: **React**, **Zustand**, **React-Bootstrap**, **React-Query**, **React-Hook-Form**, **Java**, **Spring Boot**, **Maven**, **Spring Security**, **JPA**, **ORM**, **MySQL**.
   
-- 💻 **[Proyecto 2: Región de Aysén](https://gerardoegr.github.io/region-aysen-page/)**
+- 💻 **[Proyecto Región de Aysén](https://gerardoegr.github.io/region-aysen-page/)**<br>
    Descripción: Sitio web sobre los atractivos turísticos de la Región. Tecnologías: **HTML**, **CSS**, **Astro**, **JavaScript**, **RBootstrap**.
   
-- 💻 **[Proyecto 3: HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**
+- 💻 **[Proyecto HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**<br>
    Descripción: Aplicación Web para el agendamiento de horas médicas. Tecnologías: **Next.JS**, **React**, **Zustand**, **Typescript**, **React-calendar**, **React-Hook-Form**, **Tailwind CSS**, **Prisma**, **PostgreSQL**.
 
 <div></div><br><br>
