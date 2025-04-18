@@ -44,7 +44,7 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
     <kbd>
     <h3>Base de Datos</h3>
     <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
     </kbd>
   
 </div>
