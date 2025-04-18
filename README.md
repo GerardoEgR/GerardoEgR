@@ -2,8 +2,6 @@
 
 ![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.png)
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 Soy ingeniero informático multimedia con más tres años de experiencia en desarrollado web. He trabajado con tecnologías como React, Redux, TypeScript, Angular, Java, Spring Boot, NestJS y MySQL. Además, tengo experiencia en metodologías ágiles, específicamente aplicando Scrum y en el uso herramientas como Jira, Git, BitBucket y Azure DevOps, para la gestión de proyectos, control de versiones, integración continua y desarrollo colaborativo.
 
 Desde siempre, he creído que el compromiso y la responsabilidad son los cimientos de cualquier camino al éxito. A lo largo de mi vida profesional, he construido relaciones basadas en la confianza y el trabajo en equipo, entendiendo que los mejores logros no se alcanzan en solitario, sino con la colaboración y el apoyo mutuo. La empatía me ha permitido conectar con quienes me rodean, aprender de ellos y aportar lo mejor de mí en cada desafío.
@@ -20,6 +18,7 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 <div style="display: inline-block;" align="center"><br>
   <kbd>
     <h3>Front-end</h3>
+	  &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -29,24 +28,38 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />     
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<div></div><br><br>
     </kbd>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoegr&theme=tokyonight" alt="GerardoEgR Top Languages"/>
   <br>
   <br>
     <kbd>
     <h3>Back-end</h3>
+	    &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+	    &nbsp;&nbsp;&nbsp;&nbsp;
+	    <div></div><br><br>
     </kbd>
   <br>
   <br>
     <kbd>
     <h3>Base de Datos</h3>
+	    &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+	    &nbsp;&nbsp;&nbsp;&nbsp;
+	    <div></div><br><br>
     </kbd>
   
+</div>
+
+## <div></div><br><br>
+<div style="display: flex;" align="center"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoegr&theme=tokyonight" alt="GerardoEgR Top Languages"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px ></picture>
 </div>
 
 <div></div><br><br>
@@ -66,6 +79,6 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 
 ## <h2>📫 Contacto</h2>
 <a target="_blank" href="https://www.linkedin.com/in/gerardogallardo-dev/">
-			<img width="40px" src="https://github.com/user-attachments/assets/e2edac84-a91e-4d7f-91d5-e75524495f9b"></a>
+<img width="40px" src="https://github.com/user-attachments/assets/e2edac84-a91e-4d7f-91d5-e75524495f9b"></a>
    
 
