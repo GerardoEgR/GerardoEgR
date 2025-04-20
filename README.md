@@ -11,7 +11,7 @@ Durante siete años, trabajé en el sector de telecomunicaciones, conectividad y
 Con esa convicción, decidí dar un giro a mi carrera. No importaba la edad ni los obstáculos, porque la determinación pesa más que cualquier barrera. Fueron años de esfuerzo, de noches en vela, de equilibrar el aprendizaje con mis responsabilidades y familia. Y al final, logré mi meta: a los 37 años, obtuve mi título de ingeniero informático multimedia.
 
 Este logro no solo representa un cambio profesional, sino una prueba de que la constancia, la flexibilidad y la pasión pueden transformar cualquier sueño en realidad. Hoy, miro hacia atrás con orgullo, sabiendo que cada paso, cada reto y cada sacrificio valieron la pena. Porque nunca es tarde para reinventarse y demostrar que el esfuerzo y la dedicación siempre tienen su recompensa.
-<div></div><br><br>
+<div></div>
 
 ## <h2 align="center">🛠 Stack Tecnológico</h2>
 
@@ -50,21 +50,21 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
     <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 	    &nbsp;&nbsp;&nbsp;&nbsp;
-	    <div></div><br><br>
+	    <div></div><br>
     </kbd>
   
 </div>
 
-## <div></div><br><br>
+## <div></div>
 <div style="display: flex;" align="center"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoegr&theme=tokyonight" alt="GerardoEgR Top Languages"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px ></picture>
 </div>
 
-<div></div><br><br>
+<div></div><br>
   
-## <h2 align="center">💼 Proyectos</h2><br>
+## <h2 align="center">💼 Proyectos</h2>
 
 - 💻 **[Proyecto MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**<br>
   Descripción: Aplicación Web de películas que permite el registro de usuarios. Tecnologías: **React**, **Zustand**, **React-Bootstrap**, **React-Query**, **React-Hook-Form**, **Java**, **Spring Boot**, **Maven**, **Spring Security**, **JPA**, **ORM**, **MySQL**.
@@ -75,7 +75,7 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 - 💻 **[Proyecto HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**<br>
    Descripción: Aplicación Web para el agendamiento de horas médicas. Tecnologías: **Next.JS**, **React**, **Zustand**, **Typescript**, **React-calendar**, **React-Hook-Form**, **Tailwind CSS**, **Prisma**, **PostgreSQL**.
 
-<div></div><br><br>
+<div></div>
 
 ## <h2 align="center">📫 Contacto</h2>
 <div style="display: flex;" align="center">
