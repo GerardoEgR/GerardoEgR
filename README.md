@@ -1,6 +1,6 @@
 ## <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola y bienvenido. Mi nombre es...</h1>
 
-![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.png)
+![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.jpeg)
 
 Soy ingeniero informático multimedia con más tres años de experiencia en desarrollado web. He trabajado con tecnologías como React, Redux, TypeScript, Angular, Java, Spring Boot, NestJS y MySQL. Además, tengo experiencia en metodologías ágiles, específicamente aplicando Scrum y en el uso herramientas como Jira, Git, BitBucket y Azure DevOps, para la gestión de proyectos, control de versiones, integración continua y desarrollo colaborativo.
 
