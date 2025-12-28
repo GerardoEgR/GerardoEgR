@@ -31,35 +31,37 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<div></div><br><br>
     </kbd>
-  <br>
-  <br>
-    <kbd>
-    <h3>Back-end</h3>
-	    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-	    &nbsp;&nbsp;&nbsp;&nbsp;
-	    <div></div><br><br>
-    </kbd>
-  <br>
-  <br>
-    <kbd>
-    <h3>Base de Datos</h3>
-	    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-	    &nbsp;&nbsp;&nbsp;&nbsp;
-	    <div></div><br>
-    </kbd>
-  
 </div>
+  <br>
+  <br>
 
-## <div></div>
-<div style="display: flex;" align="center"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoegr&theme=tokyonight" alt="GerardoEgR Top Languages"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px ></picture>
+<div style="display: inline-block;" align="center"><br>
+	<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 20px 0;">
+	  <!-- Columna izquierda: Back-end y Base de Datos -->
+	  <div style="display: flex; flex-direction: column; gap: 20px;">
+	    <kbd style="padding: 20px; text-align: center;">
+	      <h3 style="margin: 0 0 15px 0;">Back-end</h3>
+	      <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+	        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+	        <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+	        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+	      </div>
+	    </kbd>
+		<kbd style="padding: 20px; text-align: center;">
+		  <h3 style="margin: 0 0 15px 0;">Base de Datos</h3>
+		  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+			<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+			<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+		  </div>
+		</kbd>
+	  </div>
+	  <!-- Columna derecha: Imagen -->
+	  <div>
+	    <picture>
+	      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Animation">
+	    </picture>
+	  </div>
+	</div>
 </div>
 
 <div></div><br>
