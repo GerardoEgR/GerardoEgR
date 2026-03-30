@@ -16,48 +16,62 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 ## <h2 align="center">🛠 Stack Tecnológico</h2>
 
 <div style="display: inline-block;" align="center"><br>
-  <kbd>
-    <h3>Front-end</h3>
+    <h3>Frontend</h3><br>
 	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<div></div><br><br>
-    </kbd>
+	<div></div><br>
 </div>
-  <br>
   <br>
 
 <div style="display: inline-block;" align="center"><br>
 	<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 20px 0;">
 	  <!-- Columna izquierda: Back-end y Base de Datos -->
 	  <div style="display: flex; flex-direction: column; gap: 20px;">
-	    <kbd style="padding: 20px; text-align: center;">
-	      <h3 style="margin: 0 0 15px 0;">Back-end</h3>
+	      <h3>Backend</h3>
 	      <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-	        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-	        <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-	        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+	        <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+	        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+	        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+			  &nbsp;&nbsp;&nbsp;&nbsp;
 	      </div>
-	    </kbd>
-		<kbd style="padding: 20px; text-align: center;">
-		  <h3 style="margin: 0 0 15px 0;">Base de Datos</h3>
-		  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-			<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-			<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-		  </div>
-		</kbd>
+			<div></div><br>
+		<br>
 	  </div>
+		<br>
+	  <div style="display: flex; flex-direction: column; gap: 20px;">
+		  <h3>Base de Datos</h3>
+		  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+			<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+			<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+			  &nbsp;&nbsp;&nbsp;&nbsp;
+		  </div>
+			<div></div><br>
+	  </div>
+		<br>
 	  <!-- Columna derecha: Imagen -->
 	  <div>
 	    <picture>
-	      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Animation">
+	      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" alt="Animation">
 	    </picture>
 	  </div>
 	</div>
@@ -65,7 +79,7 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 
 <div></div><br>
   
-## <h2 align="center">💼 Proyectos</h2>
+<!-- ## <h2 align="center">💼 Proyectos</h2>
 
 - 💻 **[Proyecto MoviesPedia](https://github.com/GerardoEgR/moviesPediaPage)**<br>
   Descripción: Aplicación Web de películas que permite el registro de usuarios. Tecnologías: **React**, **Zustand**, **React-Bootstrap**, **React-Query**, **React-Hook-Form**, **Java**, **Spring Boot**, **Maven**, **Spring Security**, **JPA**, **ORM**, **MySQL**.
@@ -76,7 +90,7 @@ Este logro no solo representa un cambio profesional, sino una prueba de que la c
 - 💻 **[Proyecto HealthNetApp](https://github.com/GerardoEgR/HealthNetApp)**<br>
    Descripción: Aplicación Web para el agendamiento de horas médicas. Tecnologías: **Next.JS**, **React**, **Zustand**, **Typescript**, **React-calendar**, **React-Hook-Form**, **Tailwind CSS**, **Prisma**, **PostgreSQL**.
 
-<div></div>
+<div></div>-->
 
 ## <h2 align="center">📫 Contacto</h2>
 <div style="display: flex;" align="center">
