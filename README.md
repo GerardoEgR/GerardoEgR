@@ -1,73 +1,37 @@
-## <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola y bienvenido. Mi nombre es...</h1>
+<h1>Gerardo Gallardo Rodríguez</h1>
+<h3>Software Engineer | Full Stack Developer</h3>
 
-![Profile Banner](https://github.com/GerardoEgR/gerardo-gallardo-dev/blob/main/src/assets/images/banner.png)
+**Ingeniero Informático Multimedia** y **Desarrollador Full Stack** con experiencia desarrollando aplicaciones web con arquitecturas basadas en **JavaScript/TypeScript**, **Java** con **Spring Boot, APIs REST** y trabajando con bases de datos relacionales como **PostgreSQL** y **MySQL.**
 
-Soy ingeniero informático multimedia con más tres años de experiencia en desarrollado web. He trabajado con tecnologías como React, Redux, TypeScript, Angular, Java, Spring Boot, NestJS y MySQL. Además, tengo experiencia en metodologías ágiles, específicamente aplicando Scrum y en el uso herramientas como Jira, Git, BitBucket y Azure DevOps, para la gestión de proyectos, control de versiones, integración continua y desarrollo colaborativo.
 
-Desde siempre, he creído que el compromiso y la responsabilidad son los cimientos de cualquier camino al éxito. A lo largo de mi vida profesional, he construido relaciones basadas en la confianza y el trabajo en equipo, entendiendo que los mejores logros no se alcanzan en solitario, sino con la colaboración y el apoyo mutuo. La empatía me ha permitido conectar con quienes me rodean, aprender de ellos y aportar lo mejor de mí en cada desafío.
+## <h2>🛠 Stack Tecnológico</h2>
 
-Durante siete años, trabajé en el sector de telecomunicaciones, conectividad y redes, donde desarrollé una gran capacidad de adaptación. Me enfrenté a entornos exigentes, equipos multidisciplinarios y tecnologías en constante evolución. Pero, aunque disfrutaba mi trabajo, había una pasión que latía en mí con fuerza: la programación. Sabía que cambiar de rumbo no sería sencillo, pero también sabía que la perseverancia y el aprendizaje continuo son herramientas poderosas.
-
-Con esa convicción, decidí dar un giro a mi carrera. No importaba la edad ni los obstáculos, porque la determinación pesa más que cualquier barrera. Fueron años de esfuerzo, de noches en vela, de equilibrar el aprendizaje con mis responsabilidades y familia. Y al final, logré mi meta: a los 37 años, obtuve mi título de ingeniero informático multimedia.
-
-Este logro no solo representa un cambio profesional, sino una prueba de que la constancia, la flexibilidad y la pasión pueden transformar cualquier sueño en realidad. Hoy, miro hacia atrás con orgullo, sabiendo que cada paso, cada reto y cada sacrificio valieron la pena. Porque nunca es tarde para reinventarse y demostrar que el esfuerzo y la dedicación siempre tienen su recompensa.
-<div></div>
-
-## <h2 align="center">🛠 Stack Tecnológico</h2>
-
-<div style="display: inline-block;" align="center"><br>
-    <h3>Frontend</h3><br>
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-	  &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<div></div><br>
+<div style="display: inline-block;">
+    <h3>Frontend</h3>
+	 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+	 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+	 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
+	 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+	<h3>Backend</h3>
+	 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" />
+	 <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+	 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
+	<h3>Bases de Datos</h3>
+	 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" />
+	 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
+	<h3>Tools & DevOps</h3>
+	 <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+	 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20-2088FF?logo=github&logoColor=fff&style=flat" />
+	<h3>Styling</h3>
+	<img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+	<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
+	<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
 </div>
   <br>
 
 <div style="display: inline-block;" align="center"><br>
-	<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 20px 0;">
-	  <!-- Columna izquierda: Back-end y Base de Datos -->
-	  <div style="display: flex; flex-direction: column; gap: 20px;">
-	      <h3>Backend</h3>
-	      <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-	        <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-	        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-	        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-	      </div>
-			<div></div><br>
-		<br>
-	  </div>
-		<br>
-	  <div style="display: flex; flex-direction: column; gap: 20px;">
-		  <h3>Base de Datos</h3>
-		  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-			<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-			<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-			  &nbsp;&nbsp;&nbsp;&nbsp;
-		  </div>
-			<div></div><br>
-	  </div>
-		<br>
 	  <!-- Columna derecha: Imagen -->
 	  <div>
 	    <picture>
