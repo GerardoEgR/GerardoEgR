@@ -3,11 +3,13 @@
 
 **Ingeniero Informático Multimedia** y **Desarrollador Full Stack** con experiencia desarrollando aplicaciones web con arquitecturas basadas en **JavaScript/TypeScript**, **Java** con **Spring Boot, APIs REST** y trabajando con bases de datos relacionales como **PostgreSQL** y **MySQL.**
 
+---
 
-## <h2>🛠 Stack Tecnológico</h2>
+#### <h2>🛠 Stack Tecnológico</h2>
 
 <div style="display: inline-block;">
-    <h3>Frontend</h3>
+	<img  align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" alt="Animation">
+	<h3>Frontend</h3>
 	 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 	 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
 	 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
@@ -28,18 +30,10 @@
 	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 	<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
 	<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
+
+</div>
 </div>
   <br>
-
-<div style="display: inline-block;" align="center"><br>
-	  <!-- Columna derecha: Imagen -->
-	  <div>
-	    <picture>
-	      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" alt="Animation">
-	    </picture>
-	  </div>
-	</div>
-</div>
 
 <div></div><br>
   
@@ -56,10 +50,16 @@
 
 <div></div>-->
 
-## <h2 align="center">📫 Contacto</h2>
+---
+
+#### <h2 align="center">📫 Contacto</h2>
 <div style="display: flex;" align="center">
 <a target="_blank" href="https://www.linkedin.com/in/gerardogallardo-dev/">
 <img width="40px" src="https://github.com/user-attachments/assets/e2edac84-a91e-4d7f-91d5-e75524495f9b"></a>
 </div>
    
-
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
