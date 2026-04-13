@@ -34,7 +34,12 @@
 </div>
 </div>
   <br>
-
+  
+---
+  <br>
+<p align="center">
+	<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GerardoEgR&layout=compact&theme=tokyonight" />
+</p>
 <div></div><br>
   
 <!-- ## <h2 align="center">💼 Proyectos</h2>
@@ -60,6 +65,6 @@
    
 <!-- FOOTER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&width=height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
